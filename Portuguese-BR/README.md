@@ -8,7 +8,7 @@ Uma coleção de snippets .htaccess úteis, tudo em um só lugar.
 ## Créditos
 O que estamos fazendo aqui é principalmente a coleta trechos úteis de todo o interwebs (por exemplo, uma boa parte é de
 [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) em um só lugar. Enquanto estamos tentando dar crédito onde, devido, as coisas podem estar em falta. Se você acreditar em qualquer coisa que está aqui deve ser dado o seu trabalho e créditos, avise-nos, ou apenas enviar uma PR.
-Isso é um Fork veja a versão original [aqui].(https://github.com/phanan/htaccess/tree/master/Translations/Portuguese-BR)
+Isso é um Fork veja a versão original [aqui](https://github.com/phanan/htaccess/tree/master/Translations/Portuguese-BR).
 
 ## Tabela de Conteúdo
 - [Rewrite and Redirection](#rewrite-and-redirection)
