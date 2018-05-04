@@ -10,6 +10,8 @@ A collection of useful .htaccess snippets, all in one place.
 ## Credits
 What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from [Apache Server Configs](https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
 
+This is a [fork](https://github.com/phanan/htaccess)
+
 ## Table of Contents
 - [Rewrite and Redirection](#rewrite-and-redirection)
     - [Force www](#force-www)
